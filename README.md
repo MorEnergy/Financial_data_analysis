@@ -19,7 +19,7 @@ This project aims to provide a comprehensive analysis of historical stock data f
 
 1. Clone the repository:
 
-  git clone https://github.com/your_username/financial-analysis.git
+  git clone https://github.com/MorEnergy/Financial_data_analysis.git
 
 2. Install the required dependencies:
 
